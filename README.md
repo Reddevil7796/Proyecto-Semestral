@@ -1,4 +1,4 @@
-# Convierte de texto a voz - APLICACIÓN DE ESCRITORIO MODERNO [PySide2]
+# Convierte de texto a voz - APLICACIÓN DE ESCRITORIO MODERNO 
 
 >Con New Voixer podrás convertir de texto a voz de manera off-line (no necesita conexión a internet) y sencilla, además podrás guardarlo en archivos de audio.
 
