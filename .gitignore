@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+!**/__pycache__/
+__pycache__/
+__pycache__/*.pyc
+entorno
+ffmpeg-x64
+ffmpeg-x86
